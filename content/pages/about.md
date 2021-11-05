@@ -1,33 +1,33 @@
 ---
 title: About Us
 subtitle: This is a short page about us and our work.
-image: images/about.jpg
-image_alt: A man taking a picture
+image: s3://juanforero/Juan_Forero.jpeg
+image_alt: Juan Pablo Forero Profile picture
 seo:
-  title: About Us
-  description: This is the about us page
+  title: Acerca de Juan Forero
+  description: Data Analyst - Founder and CEO @Sunsvc - Finance
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: Acerca de Juan Forero
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Data Analyst - Founder and CEO @Sunsvc - Finance
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: s3://juanforero/Juan_Forero.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Acerca de Juan FOrero
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Data Analyst - Founder and CEO @Sunsvc - Finance
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: s3://juanforero/Juan_Forero.jpeg
       relativeUrl: true
 layout: page
 ---
