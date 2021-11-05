@@ -4,10 +4,8 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    title: Juan Forero
+    content: "Finance | Data Analyst| Leadership & team growth \U0001F4C8\U0001F1E8\U0001F1F4\U0001F1FA\U0001F1F8\n"
     actions:
       - label: Let's talk
         url: /contact

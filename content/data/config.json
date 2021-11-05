@@ -4,7 +4,8 @@
     "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
-        "title": "Juan",
+
+        "title": "Juan Forero",
         "has_nav": true,
         "nav_links": [
             {
@@ -72,5 +73,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://juanforerocondecom-35827.netlify.app"
 }
