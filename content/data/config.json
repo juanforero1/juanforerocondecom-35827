@@ -42,7 +42,7 @@
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/Juan_Forero_",
-                "style": "button",
+                "style": "link",
                 "icon": "twitter",
                 "new_window": true
             },
