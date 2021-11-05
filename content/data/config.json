@@ -1,10 +1,11 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Juan Pablo Forero",
     "path_prefix": "/",
-    "color_scheme": "light",
+    "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
-        "title": "juan forero",
+
+        "title": "Juan Forero",
         "has_nav": true,
         "nav_links": [
             {
